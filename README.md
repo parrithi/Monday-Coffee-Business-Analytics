@@ -2,7 +2,7 @@
 
 > A business-focused SQL analytics project that evaluates sales performance, customer behavior, and market potential across multiple Indian cities to support strategic expansion decisions for a fictional coffee retail brand.
 
-![Banner](images/monday-coffee-banner.png)
+![Banner](https://github.com/parrithi/Monday-Coffee-Business-Analytics/blob/main/Monday__Coffee.png)
 
 ---
 
