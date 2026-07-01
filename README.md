@@ -1,6 +1,3 @@
-# Monday-Coffee-Business-Analytics
-End-to-end PostgreSQL business analytics project leveraging advanced SQL to analyze sales, customer behavior, market potential, and revenue trends for data-driven retail expansion decisions.
-
 # ☕ Monday Coffee Business Analytics | SQL Market Expansion Case Study
 
 > A business-focused SQL analytics project that evaluates sales performance, customer behavior, and market potential across multiple Indian cities to support strategic expansion decisions for a fictional coffee retail brand.
