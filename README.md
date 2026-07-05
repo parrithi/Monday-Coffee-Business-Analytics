@@ -213,4 +213,4 @@ This project was developed as part of my Data Analytics portfolio to simulate a 
 
 ---
 
-## ⭐ If you found this project insightful, consider giving it a Star!
+
